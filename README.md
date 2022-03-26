@@ -16,7 +16,7 @@
   - 🐱 I am mom of [two cats](https://www.instagram.com/moonabear_cat/): Moona the big sis, and Mochi the shortie
   - 📪 How to reach me: yc3508@tc.columbia.edu || [LinkedIn](https://www.linkedin.com/in/yama-yw-chang/) || [my academia website](https://yamaychang.me/)
 
-## 🖥️ 𝗪𝗵𝗮𝘁 𝗜 𝗮𝗺 𝘂𝗽 𝘁𝗼
+## 🖥️ 𝗪𝗵𝗮𝘁 𝗛𝗮𝘃𝗲 𝗜 𝗯𝗲𝗲𝗻 𝗨𝗽 𝘁𝗼 𝗟𝗮𝘁𝗲𝗹𝘆?
 - 🔨 I’m currently ...
 ```yaml
 Learning Python while sharpening my skills in R, SQL, Machine Learning.
