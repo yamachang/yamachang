@@ -10,7 +10,7 @@
 
 ## :book: 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
   - ✍️ I’m currently working as a Researcher - Clinical Data, and I'm an R enthusiast
-  - ⚡ I’m passionate about data science, mental health, and innovation in digital health technology.
+  - ⚡ I’m passionate about data science, mental health, and innovation in digital health technology
   - 🌈 I care about LGBTQ+ equity and accessibility to mental health care 
   - 😄 Pronouns: She / Her
   - 🐱 I am mom of [two cats](https://www.instagram.com/moonabear_cat/): Moona the big sis, and Mochi the shortie
