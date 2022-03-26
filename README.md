@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 - Font generator: https://qwerty.dev/fancy-font-generator/
 - Emoji: https://emojipedia.org/
 - image color picker: https://imagecolorpicker.com/
+- icon finder: https://www.iconfinder.com/
 -->
