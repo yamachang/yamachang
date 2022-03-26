@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yamachang.yamachang&color=00cf00)
   
 
-## :book: 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+## 🤞 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
   - ✍️ I’m currently working as a Researcher - Clinical Data, and I'm an R enthusiast
   - ⚡ I’m passionate about data science, mental health, and innovation in digital health technology
   - 🌈 I care about LGBTQ+ equity and accessibility to mental health care 
