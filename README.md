@@ -22,7 +22,7 @@
 Learning Python while sharpening my skills in R, SQL, Machine Learning.
 ```
 
-## 📊 𝗣𝗹𝗲𝗮𝘀𝗲 𝗳𝗶𝗻𝗱 𝗺𝘆 𝗱𝗮𝘁𝗮 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗵𝗲𝗿𝗲 ↓
+## 🎨 𝗣𝗹𝗲𝗮𝘀𝗲 𝗳𝗶𝗻𝗱 𝗺𝘆 𝗱𝗮𝘁𝗮 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗵𝗲𝗿𝗲 ↓
 <!--
 **yamachang/yamachang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
