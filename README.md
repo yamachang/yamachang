@@ -23,6 +23,11 @@ Learning Python while sharpening my skills in R, SQL, Machine Learning.
 ```
 
 ## 🎨 𝗣𝗹𝗲𝗮𝘀𝗲 𝗳𝗶𝗻𝗱 𝗺𝘆 𝗱𝗮𝘁𝗮 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗵𝗲𝗿𝗲 ↓
+  - [Prediction-of-Mental-Wellbeing-among-Transgender-Individuals](https://github.com/yamachang/NSSI_LONGITIDUNAL#readme) <br/>
+    A data science project applying supervised machine learning model, regularized regression, to identify features prospectively predicting non-suicidal self-injurious behaviors.
+
+
+
 <!--
 **yamachang/yamachang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
