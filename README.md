@@ -9,7 +9,7 @@
   
 
 ## 🤞 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
-  - ✍️ I’m currently working as a Senior Research/Data Analyst, and I'm an R enthusiast
+  - ✍️ I’m currently working as a Senior Research/Data Analyst, and I'm a Data Science Fellow at Correlation One
   - ⚡ I’m passionate about data science, mental health, and innovation in digital health technology
   - 🌈 I care about LGBTQ+ equity and accessibility to mental health care 
   - 😄 Pronouns: She / Her
