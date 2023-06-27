@@ -5,7 +5,7 @@
 <a href='https://twitter.com/yama_yawenchang'><img align='left' alt="twitter" src="https://github.com/yamachang/yamachang/blob/main/assets/twitter_icon.svg" height='18px'/></a>
 <a href='mailto:yc3508@tc.columbia.edu'><img alt="mailto" src="https://github.com/yamachang/yamachang/blob/main/assets/gmail_icon2.svg" height='18px'/></a>
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yamachang.yamachang&color=00cf00)
+<!--![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yamachang.yamachang&color=00cf00)-->
   
 
 ## 🤞 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
