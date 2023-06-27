@@ -12,7 +12,7 @@
   - ✍️ I’m a data scientist at the Lab for Scalable of Mental Health
   - ⚡ My passion lies in using data science and compelling storytelling to tackle societal inequities, with a focus on uplifting marginalized and stigmatized individuals through data-driven solutions.
   - 😄 Pronouns: She / Her
-  - 📪 How to reach me: yc3508@tc.columbia.edu || [LinkedIn](https://www.linkedin.com/in/yama-yw-chang/) || [my academia website](https://yamaychang.me/)
+  - 📪 How to reach me: yamachang.ds@gmail.com || [LinkedIn](https://www.linkedin.com/in/yama-yw-chang/) || [Portfolio](https://yamachang.github.io/)
 
 ## 🖥️ 𝗪𝗵𝗮𝘁 𝗛𝗮𝘃𝗲 𝗜 𝗯𝗲𝗲𝗻 𝗨𝗽 𝘁𝗼 𝗟𝗮𝘁𝗲𝗹𝘆?
 - 🔨 I’m currently ...
