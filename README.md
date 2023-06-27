@@ -1,4 +1,4 @@
-![Yama (Ya-Wen) Chang, data scientist, mental health researcher](https://github.com/yamachang/yamachang/blob/main/assets/header.png)
+<!--![Yama (Ya-Wen) Chang, data scientist, mental health researcher](https://github.com/yamachang/yamachang/blob/main/assets/header.png)-->
 
 <!--## Hi, I'm Yama Chang  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">-->
 <a href='https://www.linkedin.com/in/yama-yw-chang/'><img align='left' alt="linkedin" src="https://github.com/yamachang/yamachang/blob/main/assets/linkedin_icon.svg" height='18px'/></a>
@@ -9,22 +9,16 @@
   
 
 ## 🤞 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
-  - ✍️ I’m currently working as a Senior Research/Data Analyst, and I'm a Data Science Fellow at Correlation One
-  - ⚡ I’m passionate about data science, mental health, and innovation in digital health technology
-  - 🌈 I care about LGBTQ+ equity and accessibility to mental health care 
+  - ✍️ I’m a data scientist at the Lab for Scalable of Mental Health
+  - ⚡ My passion lies in using data science and compelling storytelling to tackle societal inequities, with a focus on uplifting marginalized and stigmatized individuals through data-driven solutions.
   - 😄 Pronouns: She / Her
-  - 🐱 I am mom of [two cats](https://www.instagram.com/moonabear_cat/): Moona the big sis, and Mochi the shortie
   - 📪 How to reach me: yc3508@tc.columbia.edu || [LinkedIn](https://www.linkedin.com/in/yama-yw-chang/) || [my academia website](https://yamaychang.me/)
 
 ## 🖥️ 𝗪𝗵𝗮𝘁 𝗛𝗮𝘃𝗲 𝗜 𝗯𝗲𝗲𝗻 𝗨𝗽 𝘁𝗼 𝗟𝗮𝘁𝗲𝗹𝘆?
 - 🔨 I’m currently ...
 ```yaml
-Learning Python while sharpening my skills in R, SQL, Machine Learning.
+Strengthing my skills in Python, R, SQL, Machine Learning.
 ```
-
-## 🎨 𝗣𝗹𝗲𝗮𝘀𝗲 𝗳𝗶𝗻𝗱 𝗺𝘆 𝗱𝗮𝘁𝗮 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗵𝗲𝗿𝗲 ↓
-  - [Prediction-of-Mental-Wellbeing-among-Transgender-Individuals](https://github.com/yamachang/NSSI_LONGITIDUNAL#readme) <br/>
-    A data science project applying supervised machine learning model, regularized regression, to identify features prospectively predicting non-suicidal self-injurious behaviors.
 
 
 
