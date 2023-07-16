@@ -16,7 +16,7 @@
 ## 🖥️ 𝗪𝗵𝗮𝘁 𝗛𝗮𝘃𝗲 𝗜 𝗯𝗲𝗲𝗻 𝗨𝗽 𝘁𝗼 𝗟𝗮𝘁𝗲𝗹𝘆?
 - 🔨 I’m currently ...
 ```yaml
-Working on several ML projects using Python/R.
+Working on several ML projects using Python/R. Please see below ⬇️
 ```
 
 
