@@ -17,7 +17,7 @@
 - 🔨 I’m currently ...
   
 ```yaml
-working on multiple ML projects utilizing Python and R. Please find these projects below 👇
+working on multiple ML projects utilizing Python and R. Please find these projects below👇
 ```
 
 
