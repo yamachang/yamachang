@@ -17,7 +17,7 @@
 - 🔨 I’m currently ...
   
 ```yaml
-working on multiple ML projects utilizing Python and R. Please find these projects below👇
+diving into Gen AI and contemplating an evidence-based AI tool to improve mental health
 ```
 
 
