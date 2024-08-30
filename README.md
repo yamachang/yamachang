@@ -8,8 +8,8 @@
 <!--<a href='https://twitter.com/yama_yawenchang'><img align='left' alt="twitter" src="https://github.com/yamachang/yamachang/blob/main/assets/twitter_icon.svg" height='18px'/></a>--> 
 
 ## 🤞 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
-  - 👩‍💻 I’m a data scientist at the [Lab for Scalable of Mental Health](https://www.schleiderlab.org/labmembers.html#researchanalyst)
-  - ⚡ My passion lies in using data science and compelling storytelling to tackle societal inequities, with a focus on uplifting marginalized and stigmatized individuals through data-driven solutions.
+  - 👩‍💻 I’m currently a PhD student at Dartmouth studying Quantitative Biomedical Science
+  - ⚡ I'm a data scientist and visualization enthusiast leveraging AI/ML and digital tools to improve mental health
   - 😄 Pronouns: She / Her
   - 📪 How to reach me: yamachang.ds@gmail.com || [LinkedIn](https://www.linkedin.com/in/yamachang-ds/) || [Portfolio](https://yamachang.github.io/)
 
