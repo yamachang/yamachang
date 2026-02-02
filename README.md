@@ -17,7 +17,7 @@
 - 🔨 I’m currently ...
   
 ```yaml
-diving into Gen AI and contemplating an evidence-based AI tool to improve mental health
+Building a AI-driven behavioral decision-making system to promote mental wellbeing
 ```
 
 
