@@ -11,7 +11,7 @@
   - 👩‍💻 I’m currently a PhD student at Dartmouth studying Quantitative Biomedical Science
   - ⚡ I'm a data scientist and visualization enthusiast leveraging AI/ML and digital tools to improve mental health
   - 😄 Pronouns: She / Her
-  - 📪 How to reach me: [LinkedIn](https://www.linkedin.com/in/yamachang-ds/) || [Portfolio](https://yamachang.github.io/)
+  - 📪 How to reach me: [LinkedIn](https://www.linkedin.com/in/yamachang-ds/) || [Personal Website](https://yamaychang.me/)
 
 ## 🖥️ 𝗪𝗵𝗮𝘁 𝗛𝗮𝘃𝗲 𝗜 𝗯𝗲𝗲𝗻 𝗨𝗽 𝘁𝗼 𝗟𝗮𝘁𝗲𝗹𝘆?
 - 🔨 I’m currently ...
